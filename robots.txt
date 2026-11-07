@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://armin-historik.github.io/treibriemen/sitemap.xml
+Sitemap: https://ledertreibriemen.de/sitemap.xml
