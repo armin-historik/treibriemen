@@ -1,14 +1,102 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://ledertreibriemen.de/index.html</loc></url>
-<url><loc>https://ledertreibriemen.de/geschichte.html</loc></url>
-<url><loc>https://ledertreibriemen.de/leder.html</loc></url>
-<url><loc>https://ledertreibriemen.de/herstellung.html</loc></url>
-<url><loc>https://ledertreibriemen.de/antriebe.html</loc></url>
-<url><loc>https://ledertreibriemen.de/materialvergleich.html</loc></url>
-<url><loc>https://ledertreibriemen.de/zukunft.html</loc></url>
-<url><loc>https://ledertreibriemen.de/krafft.html</loc></url>
-<url><loc>https://ledertreibriemen.de/quellen.html</loc></url>
-<url><loc>https://ledertreibriemen.de/impressum.html</loc></url>
-<url><loc>https://ledertreibriemen.de/datenschutz.html</loc></url>
+  <url>
+    <loc>https://ledertreibriemen.de/index.html</loc>
+  </url>
+  <url>
+    <loc>https://ledertreibriemen.de/geschichte.html</loc>
+  </url>
+  <url>
+    <loc>https://ledertreibriemen.de/leder.html</loc>
+  </url>
+  <url>
+    <loc>https://ledertreibriemen.de/herstellung.html</loc>
+  </url>
+  <url>
+    <loc>https://ledertreibriemen.de/antriebe.html</loc>
+  </url>
+  <url>
+    <loc>https://ledertreibriemen.de/materialvergleich.html</loc>
+  </url>
+  <url>
+    <loc>https://ledertreibriemen.de/zukunft.html</loc>
+  </url>
+  <url>
+    <loc>https://ledertreibriemen.de/krafft.html</loc>
+  </url>
+  <url>
+    <loc>https://ledertreibriemen.de/quellen.html</loc>
+  </url>
+  <url>
+    <loc>https://ledertreibriemen.de/impressum.html</loc>
+  </url>
+  <url>
+    <loc>https://ledertreibriemen.de/datenschutz.html</loc>
+  </url>
+  <url>
+    <loc>https://ledertreibriemen.de/en/index.html</loc>
+  </url>
+  <url>
+    <loc>https://ledertreibriemen.de/en/geschichte.html</loc>
+  </url>
+  <url>
+    <loc>https://ledertreibriemen.de/en/leder.html</loc>
+  </url>
+  <url>
+    <loc>https://ledertreibriemen.de/en/herstellung.html</loc>
+  </url>
+  <url>
+    <loc>https://ledertreibriemen.de/en/antriebe.html</loc>
+  </url>
+  <url>
+    <loc>https://ledertreibriemen.de/en/materialvergleich.html</loc>
+  </url>
+  <url>
+    <loc>https://ledertreibriemen.de/en/zukunft.html</loc>
+  </url>
+  <url>
+    <loc>https://ledertreibriemen.de/en/krafft.html</loc>
+  </url>
+  <url>
+    <loc>https://ledertreibriemen.de/en/quellen.html</loc>
+  </url>
+  <url>
+    <loc>https://ledertreibriemen.de/en/impressum.html</loc>
+  </url>
+  <url>
+    <loc>https://ledertreibriemen.de/en/datenschutz.html</loc>
+  </url>
+  <url>
+    <loc>https://ledertreibriemen.de/fr/index.html</loc>
+  </url>
+  <url>
+    <loc>https://ledertreibriemen.de/fr/geschichte.html</loc>
+  </url>
+  <url>
+    <loc>https://ledertreibriemen.de/fr/leder.html</loc>
+  </url>
+  <url>
+    <loc>https://ledertreibriemen.de/fr/herstellung.html</loc>
+  </url>
+  <url>
+    <loc>https://ledertreibriemen.de/fr/antriebe.html</loc>
+  </url>
+  <url>
+    <loc>https://ledertreibriemen.de/fr/materialvergleich.html</loc>
+  </url>
+  <url>
+    <loc>https://ledertreibriemen.de/fr/zukunft.html</loc>
+  </url>
+  <url>
+    <loc>https://ledertreibriemen.de/fr/krafft.html</loc>
+  </url>
+  <url>
+    <loc>https://ledertreibriemen.de/fr/quellen.html</loc>
+  </url>
+  <url>
+    <loc>https://ledertreibriemen.de/fr/impressum.html</loc>
+  </url>
+  <url>
+    <loc>https://ledertreibriemen.de/fr/datenschutz.html</loc>
+  </url>
 </urlset>
