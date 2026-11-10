@@ -1,0 +1,9 @@
+AKTUALISIERUNG 07.11.2026
+
+ZIP entpacken und HTML-Dateien, assets-Ordner, sitemap.xml und robots.txt im GitHub-Repository treibriemen hochladen. HINWEISE-ZUM-UPLOAD.txt muss nicht online.
+
+NEU: krafft.html enthält historische Bilder und Erläuterungen aus der Jubiläumsschrift 1929. quellen.html enthält die Quellenangabe. Bilder unter assets/krafft-1929.
+
+WICHTIG: Vor der öffentlichen Bildveröffentlichung die Rechte an den historischen Fotografien und der Jubiläumsschrift prüfen. Der Besitz eines Scans ist keine automatische Veröffentlichungserlaubnis.
+
+Die Quelle 1929 nennt den Kauf neuer Maschinen auf der Pariser Weltausstellung 1889, nicht den Erwerb einer elektrischen Kraftanlage.
