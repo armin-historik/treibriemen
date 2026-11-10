@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 680" role="img" aria-labelledby="title desc">
+<title id="title">Schema einer historischen Fabriktransmission um 1900</title><desc id="desc">Eine zentrale Kraftquelle treibt über einen Riemen eine oben gelagerte Transmissionswelle an. Drei Abtriebe führen mit Lederriemen zu Arbeitsmaschinen. Schematische Darstellung, nicht maßstäblich.</desc>
+<rect width="1200" height="680" fill="#f7f2e8"/>
+<rect x="34" y="32" width="1132" height="610" rx="12" fill="#fffaf0" stroke="#c6b99f" stroke-width="2"/>
+<text x="70" y="85" font-family="Georgia,serif" font-size="33" fill="#243d33" font-weight="bold">Kraftübertragung in einer Fabrik um 1900</text>
+<text x="70" y="116" font-family="Arial,sans-serif" font-size="17" fill="#58665b">Prinzip einer zentralen Transmission mit mehreren Maschinenabtrieben</text>
+<!-- beams and hangers -->
+<path d="M95 162H1115" stroke="#89745c" stroke-width="17" stroke-linecap="round"/>
+<path d="M245 164V235 M520 164V235 M800 164V235 M1040 164V235" stroke="#78827b" stroke-width="11"/>
+<!-- shaft -->
+<path d="M182 241H1095" stroke="#394e48" stroke-width="14" stroke-linecap="round"/>
+<g fill="#4d665b" stroke="#273f35" stroke-width="4"><circle cx="275" cy="241" r="48"/><circle cx="510" cy="241" r="42"/><circle cx="760" cy="241" r="42"/><circle cx="1000" cy="241" r="42"/></g>
+<g fill="#d9c7a5" stroke="#8b7355" stroke-width="3"><circle cx="275" cy="241" r="13"/><circle cx="510" cy="241" r="13"/><circle cx="760" cy="241" r="13"/><circle cx="1000" cy="241" r="13"/></g>
+<!-- drive motor left and belt -->
+<rect x="95" y="440" width="170" height="110" rx="12" fill="#d8ded7" stroke="#425c4e" stroke-width="4"/>
+<path d="M112 461H246 M112 478H246 M112 495H246" stroke="#7c9185" stroke-width="5"/>
+<circle cx="273" cy="489" r="34" fill="#4d665b" stroke="#273f35" stroke-width="4"/>
+<path d="M240 483L228 245 M306 482L322 245" stroke="#a8753e" stroke-width="13" fill="none"/>
+<path d="M240 483L228 245 M306 482L322 245" stroke="#d6aa73" stroke-width="3" fill="none"/>
+<text x="110" y="583" font-family="Arial,sans-serif" font-size="18" font-weight="bold" fill="#243d33">Kraftquelle</text>
+<text x="110" y="606" font-family="Arial,sans-serif" font-size="15" fill="#58665b">schematisch dargestellt</text>
+<!-- drop belts -->
+<g fill="none" stroke="#a8753e" stroke-width="12"><path d="M470 244L452 470 Q452 500 486 501 L534 501 Q568 500 568 470 L550 244"/><path d="M720 244L703 470 Q703 500 736 501 L784 501 Q817 500 817 470 L800 244"/><path d="M960 244L945 470 Q945 500 976 501 L1024 501 Q1055 500 1055 470 L1040 244"/></g>
+<g fill="none" stroke="#d9b581" stroke-width="2"><path d="M470 244L452 470 M550 244L568 470 M720 244L703 470 M800 244L817 470 M960 244L945 470 M1040 244L1055 470"/></g>
+<!-- lower pulleys -->
+<g fill="#4d665b" stroke="#273f35" stroke-width="4"><circle cx="510" cy="472" r="38"/><circle cx="760" cy="472" r="38"/><circle cx="1000" cy="472" r="38"/></g>
+<g fill="#d9c7a5" stroke="#8b7355" stroke-width="3"><circle cx="510" cy="472" r="12"/><circle cx="760" cy="472" r="12"/><circle cx="1000" cy="472" r="12"/></g>
+<!-- machine bases -->
+<g fill="#d8ded7" stroke="#425c4e" stroke-width="3"><rect x="421" y="519" width="178" height="40" rx="6"/><rect x="671" y="519" width="178" height="40" rx="6"/><rect x="911" y="519" width="178" height="40" rx="6"/></g>
+<g font-family="Arial,sans-serif" font-size="17" fill="#243d33" font-weight="bold" text-anchor="middle"><text x="510" y="586">Arbeitsmaschine 1</text><text x="760" y="586">Arbeitsmaschine 2</text><text x="1000" y="586">Arbeitsmaschine 3</text></g>
+<path d="M665 177l18 -10 -3 20z" fill="#a8753e"/><text x="695" y="182" font-family="Arial,sans-serif" font-size="17" fill="#243d33">Transmissionswelle</text>
+<text x="70" y="628" font-family="Arial,sans-serif" font-size="14" fill="#687267">Eigene schematische Zeichnung · keine Rekonstruktion einer bestimmten Fabrikanlage · nicht maßstäblich</text>
+</svg>
