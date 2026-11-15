@@ -1,0 +1,8 @@
+VERÖFFENTLICHUNGSFASSUNG – 15.11.2026
+
+Grundlage: ursprüngliches ZIP mit 220 Einträgen. Alle ursprünglichen Dateien und Verzeichniseinträge sind enthalten.
+Gezielte fachliche Ergänzungen in DE/EN/FR: Herstellung, Leder, Antriebe, Krafft, Quellen.
+Korrigiert: veralteter doppelter Fachbuch-Eintrag (1911); vorhandene Bildverzeichnisse werden mit ihrer tatsächlichen Schreibweise „orginal…“ verlinkt.
+Prüfung: interne relative Datei-Links, ZIP-Integrität, DE/EN/FR-Dateibestand.
+Hinweis: Bildrechte der historischen Originalfotografien bleiben wie auf der Quellenseite angegeben gesondert zu klären. Keine neue Bilddatei hinzugefügt.
+Die Aussagen über historische Branchenverfahren sind nicht als Beleg für die tatsächliche Praxis bei Krafft zu verstehen.
